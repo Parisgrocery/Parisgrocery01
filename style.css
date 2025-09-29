@@ -86,17 +86,14 @@ section {
 
 .header .logo {
   display: inline-block;
-  width: 150px;
-  height: 80px;
+  width: 2000px;
+  height: 100px;
   background: url("image/logo.jpg") no-repeat center;
   background-size: contain;
 }
 
 }
 
-.header .logo i {
-    color: var(--orange);
-}
 
 .header .navbar a {
     font-size: 1.7rem;

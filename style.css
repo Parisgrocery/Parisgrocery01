@@ -88,7 +88,7 @@ section {
   display: inline-block;
   width: 180px;
   height: 80px;
-  background: url("image/logo.jpg") no-repeat left;
+  background: url("image/logo.jpg") no-repeat center;
   background-size: contain;
 }
 

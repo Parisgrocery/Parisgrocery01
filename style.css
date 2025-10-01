@@ -123,9 +123,9 @@ section {
     color: #fff;
 }
 
-<!---#menu-btn {
+#menu-btn {
     display: none;
-} --->
+}
 
 .header .search-form {
     position: absolute;

@@ -90,8 +90,8 @@ section {
     color: var(--black);
     position: fixed;
   display: inline-block;
-  width: 50px;
-  height: 100px;
+  width: auto;
+  height: 50px;
   background: url("image/logo.jpg") no-repeat center;
   background-size: contain;
 }

@@ -85,6 +85,7 @@ section {
 }
 
 .header .logo {
+  position: fixed;
   display: inline-block;
   width: 180px;
   height: 80px;

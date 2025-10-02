@@ -88,6 +88,12 @@ section {
     font-size: 2.5rem;
     font-weight: bolder;
     color: var(--black);
+    position: fixed;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: url("image/logo.jpg") no-repeat center;
+  background-size: contain;
 }
 
 .header .logo i {

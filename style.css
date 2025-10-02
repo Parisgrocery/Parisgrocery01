@@ -91,7 +91,7 @@ section {
   position: fixed;
   display: inline-block;
   width: 100px;
-  height: 80px;
+  height: 100px;
   background: url("image/logo.jpg") no-repeat center;
   background-size: contain;
 }

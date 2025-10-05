@@ -76,7 +76,7 @@ section {
     left: 0;
     right: 0;
     z-index: 1000;
-    display: fixed;
+    display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 2rem 9%;
@@ -84,12 +84,10 @@ section {
     box-shadow: var(--box-shadow);
 }
 
-.header .logo img {
-  width: 60px;
-  height: 40px;
-  margin-right: 20px;
-  background: url("image/logo.jpg") no-repeat center;
-  background-size: contain;
+.header .logo {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: var(--black);
 }
 
 .header .logo i {
@@ -287,7 +285,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(.Parisgrocery01/image/logo.jpg) no-repeat;
+    background: url(./image/banner-bg.webp) no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 17rem;

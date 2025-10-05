@@ -93,8 +93,8 @@ section {
   background-size: contain;
 }
 
-.header .logo i {
-    color: var(--orange);
+<!--- .header .logo i {
+    color: var(--orange); --->
 }
 
 .header .navbar a {

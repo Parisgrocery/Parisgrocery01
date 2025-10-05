@@ -85,8 +85,8 @@ section {
 }
 
  .header .logo img {
-  width: 60px;
-  height: 40px;
+  width: 120px;
+  height: 60px;
   margin-right: 20px;
   background: url("image/logo.jpg") no-repeat center;
   background-size: contain;

@@ -297,7 +297,7 @@ section {
 
 .home .content {
     text-align: center;
-    width: 60rem;
+    width: 40rem;
 }
 
 .home .content h3 {
@@ -311,7 +311,7 @@ section {
 
 .home .content p {
     color: var(--light-color);
-    font-size: 1.7rem;
+    font-size: 1.0rem;
     padding: 1rem 0;
     line-height: 1.8;
 }

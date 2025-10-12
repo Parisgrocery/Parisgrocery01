@@ -285,7 +285,7 @@ section {
 }
 
 .home {
-    display: fixed;
+    display: flex;
     align-items: center;
     justify-content: center;
     background: url(./image/logo_paris_grocery.webp) no-repeat;

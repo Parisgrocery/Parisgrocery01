@@ -89,7 +89,7 @@ section {
   height: 60px;
   margin-left: 20px;
   border: none;
-  background: url("image/logo.jpg") no-repeat center;
+  background: url("image/logo_pg.png") no-repeat center;
   background-size: contain;
 }
 
